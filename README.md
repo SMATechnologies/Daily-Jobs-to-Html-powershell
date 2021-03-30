@@ -1,6 +1,6 @@
 # Daily Jobs to Html - powershell
 
-This script uses the OpCon APIs to fetch Schedules and Jobs from the Daily plans and visualize it on a static html page.
+This script uses the OpCon APIs to fetch Schedules and Jobs from the Daily plans, saves it on a static html page and display it in the default browser.
 
 
 # Disclaimer
