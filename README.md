@@ -24,7 +24,7 @@ SMA Technologies assumes no liability for damage caused by the usage of any of t
   
 Example:
 ```
-.\DailyJobsToHtml.ps1 -ScheduleDate "2021-03-17" -OpJobStatus "Failed" -OpConUser ocadm -OpConPassword <password> -ServerUrl https://192.168.2.30:443
+.\DailyJobsToHtml.ps1 -OpScheduleDate "2021-03-17" -OpJobStatus "Failed" -OpConUser ocadm -OpConPassword <password> -ServerUrl https://192.168.2.30:443
 ```  
 
 <b>The HtmlTemplate file:</b>
